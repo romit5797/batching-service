@@ -1,0 +1,18 @@
+{
+  "name": "dataloader-batcher",
+  "version": "1.0.0",
+  "description": "Customisable batching using dataloader library.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.13.0"
+  },
+  "scripts": {
+    "dev": "npx ts-node index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dataloader": "^2.2.2"
+  }
+}
